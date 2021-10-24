@@ -43,6 +43,24 @@ APIs, coffee, and soccer are three of my favorite things. I'm a Matlab and Pytho
 <a href="mailto:yzaojoseph@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yzaojoseph@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class who_am_I:
+    def __init__(self):
+        self.name    = "Joseph Ao"
+        self.role    = "Junior college student"
+        self.school  = "University of Maryland, College Park"
+        self.contact = "yzaojoseph@gmaill.com"
+        self.work    = "Information "
+        self.learn   = "Image Processing and Game Programming"
+    
+    def getCity():
+        return Washington_D.C()
+
+me = student()
+```
 
 ## Languages and Tools that I use
 
@@ -80,24 +98,7 @@ APIs, coffee, and soccer are three of my favorite things. I'm a Matlab and Pytho
 <br/>
 
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
-class who_am_I:
-    def __init__(self):
-        self.name    = "Joseph Ao"
-        self.role    = "Junior college student"
-        self.school  = "University of Maryland"
-        self.contact = "yzaojoseph@gmaill.com"
-        self.work    = "Information "
-        self.learn   = "Image Processing and Game Programming"
-    
-    def getCity():
-        return Washington_D.C()
-
-me = student()
-```
 
 <p align="center"> 
   Visitors :<br>
