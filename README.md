@@ -50,7 +50,6 @@ class who_am_I:
         self.role    = "Junior college student"
         self.school  = "University of Maryland, College Park"
         self.contact = "yzaojoseph@gmaill.com"
-        self.work    = "Information "
         self.learn   = "Image Processing and Game Programming"
     
     def getCity():
