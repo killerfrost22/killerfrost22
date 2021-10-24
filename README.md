@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **killerfrost22/killerfrost22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,10 +22,10 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
-- 🎓 I am a studying Computer Science and Applied Mathematics! 🐺
+- 🎓 &nbsp; I am a college student studying Computer Science and Applied Mathematics! 🐺
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Passionate Programmer, Matlab Developer, problem solving Skills and a Competitive Programmer.
-- 🌱 &nbsp; Learning more about Web Development, Database Management System, SQL and Familier with Data Science & ML.
+- 💼 &nbsp; Passionate Programmer, technical engineer, problem solving Skills and a Competitive Programmer.
+- 🌱 &nbsp; Front-End, Back-end, database design,and I am familier with Data Science & Machine Learning.
 - ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
 - 📫 How to reach me: wandrys.sousa@protonmail.com ⚛️
 - ⚡ Fun fact: I love listening to music and playing the guitar! 🎸
