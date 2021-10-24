@@ -95,7 +95,7 @@ me = student()
 <br/>
 
 <p align="center">
-<a href="mailto:yzaojoseph@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yzaojoseph@gmail.com-blue?style=flat-square&logo=gmail">Visitors : <img src="https://profile-counter.glitch.me/killerfrost22/count.svg" /></a>
+<a href="mailto:yzaojoseph@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yzaojoseph@gmail.com-blue?style=flat-square&logo=gmail">  Visitors : <img src="https://profile-counter.glitch.me/killerfrost22/count.svg" /></a>
 </p>
 
 
