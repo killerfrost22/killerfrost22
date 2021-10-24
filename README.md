@@ -101,7 +101,7 @@ me = student()
 
 <p align="center"> 
   Visitors :<br>
-  <img src="https://profile-counter.glitch.me/Wandrys-dev/count.svg" />
+  <img src="https://profile-counter.glitch.me/killerfrost22/count.svg" />
 </p>
 
 
