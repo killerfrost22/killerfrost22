@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - 💼 &nbsp; Passionate Programmer, Technical computer engineer
 - 🌱 &nbsp; Front-End, Back-end, database design, Data Science & Machine Learning.
 - ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
-- 📫 How to reach me: yzajoseph@protonmail.com 
-- ⚡ Fun fact: I love listening to music and playing the guitar! 🎸
+- 📫 &nbsp; How to reach me: yzajoseph@gmail.com 
+- ⚡ &nbsp; Fun fact: I love listening to music and playing the guitar! 🎸
 
 
 
