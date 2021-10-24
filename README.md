@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- About me image -->
 <img src='https://github.com/Wandrys-dev/Wandrys-dev/blob/main/pointme.png' align='left' width='27%'>
 
-<h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me  </h3>
 
 
 - 🎓 &nbsp; I am a college student studying Computer Science and Applied Mathematics! 🐺
