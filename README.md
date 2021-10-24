@@ -126,13 +126,13 @@ APIs, coffee, and the soccer are three of my favorite things. I'm a Matlab and P
 <table width="100%"> 
   <tr>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Wandrys-dev&show_icons=true&theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api?username=-dev&show_icons=true&theme=algolia">
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wandrys-dev&layout=compact&langs_count=8&theme=algolia">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=killerfrost22&layout=compact&langs_count=8&theme=algolia">
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wandrys-dev&amp;langs_count=8&amp;theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=killerfrost22&amp;langs_count=8&amp;theme=algolia">
     </td>
   </tr>
 </table>
@@ -146,25 +146,20 @@ APIs, coffee, and the soccer are three of my favorite things. I'm a Matlab and P
 
 class ComputerEngineer:
     def __init__(self):
-        self.name    = "Wandrys Nascimento"
-        self.role    = "Data Scientist"
-        self.contact = "wandrys.sousa@protonmail.com"
-        self.work    = "Data Scientist, Software, Network Systems, Web Developer"
+        self.name    = "Joseph Ao"
+        self.role    = "Junior college student"
+        self.school  = "University of Maryland"
+        self.contact = "yzaojoseph@gmaill.com"
+        self.work    = "Information "
         self.learn   = "Image Processing and Game Programming"
     
     def getCity():
-        return Brasilia_Brazil()
+        return Washington_D.C()
 
-me = DataScientist()
+me = student()
 ```
 
 
-
-
-
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wandrys-dev&theme=react-dark)](https://github.com/Wandrys-dev/github-readme-activity-graph)
 
 
 
@@ -175,7 +170,3 @@ me = DataScientist()
 
 
 
-
-<p align="center">
-  <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/eesa.gif">
-</p>
