@@ -38,10 +38,7 @@ APIs, coffee, and soccer are three of my favorite things. I'm a Matlab and Pytho
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
 <br/>
-<p align="center">
 
-<a href="mailto:yzaojoseph@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yzaojoseph@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 ```python
 #!/usr/bin/python
@@ -97,10 +94,9 @@ me = student()
 
 <br/>
 
+<p align="center">
+<a href="mailto:yzaojoseph@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yzaojoseph@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-
-
-<p align="center"> 
   Visitors :<br>
   <img src="https://profile-counter.glitch.me/killerfrost22/count.svg" />
 </p>
