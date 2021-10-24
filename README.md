@@ -74,18 +74,10 @@ APIs, coffee, and the soccer are three of my favorite things. I'm a Matlab and P
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm-code&logoColor=007ACC)
 
 <br/>
-
-<img align="right" width="150" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/kattoo.gif">
-
-<h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
-
 <p align="center">
-<a href="https://twitter.com/DeWandrys"><img alt="twitter"  src="https://logo.letskhabar.com/img/?tool=twitter" alt="Twitter profile" height="30" width="40" /></a>
-<a href="https://www.instagram.com/matematico_do_planalto_central/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-matematico_do_planalto_central-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:wandrys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wandrys@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
-⭐️ From [Wandrys-dev](https://github.com/Wandrys-dev)
+<a href="mailto:yzaojoseph@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yzaojoseph@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 
 
@@ -94,10 +86,9 @@ APIs, coffee, and the soccer are three of my favorite things. I'm a Matlab and P
 
 <img align="right" width="100" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/function.gif">
 
-## Languages and Tools I Use
+## Languages and Tools that I use
 
 - <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
-- <img align="left" alt="Octave" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /> **Octave**
 - <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python**
 - <img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />  **HTML**
 - <img align="left" alt="HTML" width="22px" src="https://logo.letskhabar.com//img/?tool=css" />  **CSS**
@@ -108,7 +99,6 @@ APIs, coffee, and the soccer are three of my favorite things. I'm a Matlab and P
 - <img align="left" alt="Google Colab" width="22px" src="https://logo.letskhabar.com/img/?tool=google_cloud" /> **Google Colab**
 - <img align="left" alt="Git" width="22px" src="https://logo.letskhabar.com/img/?tool=git" /> **Git**
 - <img align="left" alt="GitHub" width="22px" src="https://logo.letskhabar.com/img/?tool=github" /> **GitHub**
-- <img align="left" alt="Spyder" width="22px" src="https://simpleicons.org/icons/spyderide.svg" /> **Spyder**
 - <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/markdown.svg" /> **Markdown**
 - <img align="left" alt="Atom" width="22px" src="https://simpleicons.org/icons/atom.svg" />  **Atom**
 - <img align="left" alt="R" width="22px" src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=r&logoColor=white"/>  **R**
@@ -126,7 +116,7 @@ APIs, coffee, and the soccer are three of my favorite things. I'm a Matlab and P
 <table width="100%"> 
   <tr>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=-dev&show_icons=true&theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api?username=killerfrost22&show_icons=true&theme=algolia">
     </td>
     <td width="30%">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=killerfrost22&layout=compact&langs_count=8&theme=algolia">
