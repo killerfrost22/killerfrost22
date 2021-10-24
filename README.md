@@ -80,12 +80,6 @@ APIs, coffee, and the soccer are three of my favorite things. I'm a Matlab and P
 </p>
 
 
-
-
-<img align="right" width="350" alt="Code" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/code.gif"/>
-
-<img align="right" width="100" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/function.gif">
-
 ## Languages and Tools that I use
 
 - <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
@@ -104,14 +98,6 @@ APIs, coffee, and the soccer are three of my favorite things. I'm a Matlab and P
 - <img align="left" alt="R" width="22px" src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=r&logoColor=white"/>  **R**
 - <img align="left" alt="LaTeX" width="22px" src="https://simpleicons.org/icons/latex.svg"/>  **LaTeX**
 - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
-
-
-
-
-## 📈 My GitHub Stats 
-![](https://allhacked.com/up/2019/03/hello-world.gif)
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats">
-
 
 <table width="100%"> 
   <tr>
@@ -134,7 +120,7 @@ APIs, coffee, and the soccer are three of my favorite things. I'm a Matlab and P
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class ComputerEngineer:
+class who_am_I:
     def __init__(self):
         self.name    = "Joseph Ao"
         self.role    = "Junior college student"
@@ -148,10 +134,6 @@ class ComputerEngineer:
 
 me = student()
 ```
-
-
-
-
 
 <p align="center"> 
   Visitors :<br>
