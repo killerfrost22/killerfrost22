@@ -24,16 +24,15 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; I am a college student studying Computer Science and Applied Mathematics! 🐺
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Passionate Programmer, technical engineer, problem solving Skills and a Competitive Programmer.
-- 🌱 &nbsp; Front-End, Back-end, database design,and I am familier with Data Science & Machine Learning.
+- 💼 &nbsp; Passionate Programmer, Technical computer engineer
+- 🌱 &nbsp; Front-End, Back-end, database design, Data Science & Machine Learning.
 - ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
-- 📫 How to reach me: wandrys.sousa@protonmail.com ⚛️
+- 📫 How to reach me: yzajoseph@protonmail.com 
 - ⚡ Fun fact: I love listening to music and playing the guitar! 🎸
 
 
 
-I love APIs, coffee, and the Oxford comma. I am a full stack mathematician working in Matlab and Python. I have excelled in various roles in the Software Development Life Cycle. I have always enjoyed seeing ideas come to life in my programs. I love to ship elegant code that solves real problems, and iterate based on real customer feedback. I want to write software that improves people's lives, and that supports our skills and enriches our relationships outside the virtual world.
-
+APIs, coffee, and the soccer are three of my favorite things. I'm a Matlab and Python-based full-stack programmer. Throughout the Software Development Life Cycle, I have excelled in many roles. I've always liked seeing my programs bring ideas to life. I enjoy delivering beautiful code that solves real-world problems and iterating on real-world user feedback. I aim to create software that enhances people's lives by enhancing our talents and enriching our connections outside of the virtual realm.
 
 
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
