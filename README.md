@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2>Hello World, I'm Joseph! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hello World, I'm Joseph!</h2>
 
 <!-- About me image -->
 <img src='https://github.com/Wandrys-dev/Wandrys-dev/blob/main/pointme.png' align='left' width='27%'>
@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 - 🌱 &nbsp; Front-End, Back-end, database design, Data Science & Machine Learning.
 - ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
 - 📫 &nbsp; How to reach me: yzajoseph@gmail.com 
-- ⚡ &nbsp; Fun fact: I love listening to music and playing the guitar! 🎸
+- ⚡ &nbsp; Fun fact: I love listening to music and playing the ukulele! 🎸
 
 
 
-APIs, coffee, and the soccer are three of my favorite things. I'm a Matlab and Python-based full-stack programmer. Throughout the Software Development Life Cycle, I have excelled in many roles. I've always liked seeing my programs bring ideas to life. I enjoy delivering beautiful code that solves real-world problems and iterating on real-world user feedback. I aim to create software that enhances people's lives by enhancing our talents and enriching our connections outside of the virtual realm.
+APIs, coffee, and soccer are three of my favorite things. I'm a Matlab and Python-based full-stack programmer. Throughout the Software Development Life Cycle, I have excelled in many roles. I've always liked seeing my programs bring ideas to life. I enjoy delivering beautiful code that solves real-world problems and iterating on real-world user feedback. I aim to create software that enhances people's lives by enhancing our talents and enriching our connections outside of the virtual realm.
 
 
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
