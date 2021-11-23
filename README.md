@@ -46,7 +46,7 @@ APIs, coffee, and soccer are three of my favorite things. I'm a Matlab and Pytho
 
 class who_am_I:
     def __init__(self):
-        self.name    = "Joseph Ao"
+        self.name    = "Joseph"
         self.role    = "Junior college student"
         self.school  = "University of Maryland, College Park"
         self.contact = "yzaojoseph@gmaill.com"
