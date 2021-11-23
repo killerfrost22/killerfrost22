@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <h2>Hello World, I'm Joseph!</h2>
 
 <!-- About me image -->
-<img src='https://github.com/Wandrys-dev/Wandrys-dev/blob/main/pointme.png' align='left' width='27%'>
 
 <h3> 👨🏻‍💻 &nbsp;About Me  </h3>
 
