@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 <!-- About me image -->
 
-<h3> 👨🏻‍💻 &nbsp;About Me  </h3>
-
-
 - 🎓 &nbsp; I am a college student studying Computer Science and Applied Mathematics! 🐺
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Passionate Programmer, Technical computer engineer
