@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 &nbsp; Front-End, Back-end, database design, Data Science & Machine Learning.
 - ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
 - 📫 &nbsp; How to reach me: yzajoseph@gmail.com 
-- ⚡ &nbsp; Fun fact: I love listening to Пётр Ильич Чайковский and playing the ukulele! 🎸
+- ⚡ &nbsp; Fun fact: I am a dolphin 🎸
 
 
 
