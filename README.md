@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; I am a college student studying Computer Science and Applied Mathematics! 🐺
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Passionate Programmer, Technical computer engineer
+- 💼 &nbsp; Passionate Programmer, Computer System Analyst
 - 🌱 &nbsp; Front-End, Back-end, database design, Data Science & Machine Learning.
 - ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
 - 📫 &nbsp; How to reach me: yzajoseph@gmail.com 
@@ -43,10 +43,10 @@ APIs, coffee, and soccer are three of my favorite things. I'm a Matlab and Pytho
 class who_am_I:
     def __init__(self):
         self.name    = "Joseph"
-        self.role    = "Junior college student"
+        self.role    = "System bot"
         self.school  = "University of Maryland, College Park"
         self.contact = "yzaojoseph@gmaill.com"
-        self.learn   = "Image Processing and Game Programming"
+        self.learn   = "Networking"
     
     def getCity():
         return Washington_D.C()
