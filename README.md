@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 📫 &nbsp; How to reach me: yzajoseph@gmail.com 
 - ⚡ &nbsp; Fun fact: I am a dolphin 🎸
 
-
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 APIs, coffee, and soccer are three of my favorite things. I'm a Matlab and Python-based full-stack programmer. Throughout the Software Development Life Cycle, I have excelled in many roles. I've always liked seeing my programs bring ideas to life. I enjoy delivering beautiful code that solves real-world problems and iterating on real-world user feedback. I aim to create software that enhances people's lives by enhancing our talents and enriching our connections outside of the virtual realm.
 
