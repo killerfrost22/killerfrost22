@@ -1,4 +1,3 @@
- ```markdown                                                                                                                                          
 <h1 align="center">Hi, I'm Joseph 👋</h1>
 
 <p align="center">
@@ -70,4 +69,3 @@ alt="Joseph's GitHub stats" />
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerfrost22&layout=compact&langs_count=8&theme=algolia&hide_border=true"
 alt="Top languages" />
 </p>
- ``` 
