@@ -5,21 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yzaojoseph@gmail.com"><img alt="Email"
-src="https://img.shields.io/badge/Email-yzaojoseph%40gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white"></a>
   <img alt="UMD" src="https://img.shields.io/badge/University_of_Maryland-CS_%26_Applied_Math-E21833?style=flat-square">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=killerfrost22&style=flat-square&color=blue">
 </p>
 
 ## About me
 
-- 🎓 Computer Science & Applied Mathematics student at the University of Maryland 🐺
+- 🎓 student at the University of Maryland 🐺
 - 🛠️ I work across the stack: front end, back end, and database design
 - 📊 Into data science and machine learning
 - 🤔 Always exploring new tech and shipping quick hacks
-- 🌱 Currently learning networking
-- 📫 Reach me at **yzaojoseph@gmail.com**
-- ⚡ Fun fact: I'm a dolphin 🎸
+- 🌱 Currently learning server+
 
 APIs, coffee, and soccer are three of my favorite things. I'm a full-stack programmer who works mostly in Python and MATLAB, and I've taken on many
 roles across the software development life cycle. What I enjoy most is watching an idea turn into a working program: writing clean code that solves
