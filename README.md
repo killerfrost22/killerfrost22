@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joseph 👋</h1>
 
 <p align="center">
-  CS + Applied Math @ University of Maryland, College Park · Full-stack developer · Data & ML
+  Cyber Security @ University of Maryland, College Park · Full-stack developer · Data & ML
 </p>
 
 <p align="center">
