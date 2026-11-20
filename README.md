@@ -28,14 +28,6 @@ connections outside the screen.
   <img src="https://skillicons.dev/icons?i=py,matlab,r,java,js,ts,react,html,css,mysql,postgres,latex,git,github,vscode&perline=8" alt="Python, MATLAB, R, Java, JavaScript, TypeScript, React, HTML, CSS, MySQL, PostgreSQL, LaTeX, Git, GitHub, VS Code" />
 </p>
 
-## Projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [cmsc434-healthapp](https://github.com/killerfrost22/cmsc434-healthapp) | TerpFitness, a health app built for CMSC434 | Java |
-| [Matlab_store](https://github.com/killerfrost22/Matlab_store) | Collection of MATLAB `.m` scripts | MATLAB |
-| [CMSC388-Something-about-React](https://github.com/killerfrost22/CMSC388-Something-about-React) | React coursework for CMSC388 | React, HTML |
-
 ## whoami
 
 ```python
