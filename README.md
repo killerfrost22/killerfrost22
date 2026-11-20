@@ -25,7 +25,7 @@ connections outside the screen.
 ## Tech I use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,matlab,r,java,js,ts,react,html,css,mysql,postgres,latex,lean&perline=8" alt="Python, MATLAB, R, Java, JavaScript, TypeScript, React, HTML, MySQL, PostgreSQL, LaTeX, Lean" />
+  <img src="https://skillicons.dev/icons?i=py,matlab,r,java,js,ts,react,html,css,mysql,postgres,latex,lean&perline=15" alt="Python, MATLAB, R, Java, JavaScript, TypeScript, React, HTML, MySQL, PostgreSQL, LaTeX, Lean" />
 </p>
 
 ## whoami
