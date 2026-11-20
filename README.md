@@ -9,8 +9,6 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=killerfrost22&style=flat-square&color=blue">
 </p>
 
-## About me
-
 - 🎓 student at the University of Maryland 🐺
 - 🛠️ I work across the stack: front end, back end, and database design
 - 📊 Into data science and machine learning
@@ -22,13 +20,9 @@ roles across the software development life cycle. What I enjoy most is watching 
 real problems, then improving it based on real user feedback. I want to build software that makes people more capable and strengthens their
 connections outside the screen.
 
-## Tech I use
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,matlab,r,java,js,ts,react,html,css,mysql,postgres,latex,lean&perline=15" alt="Python, MATLAB, R, Java, JavaScript, TypeScript, React, HTML, MySQL, PostgreSQL, LaTeX, Lean" />
 </p>
-
-## whoami
 
 ```python
 class WhoAmI:
@@ -46,8 +40,6 @@ class WhoAmI:
 
 me = WhoAmI()
 ```
-
-## GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=killerfrost22&show_icons=true&theme=algolia&hide_border=true"
